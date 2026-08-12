@@ -1,7 +1,5 @@
-# IT3081 – Statistical Modelling Group Assignment
-# 🚌 Public Transportation Demand Analysis (Sri Lankan Context)
-# Complete Task-by-Task Analysis & Guide (English Version)
 
+# 🚌 Public Transportation Demand Analysis (Sri Lankan Context)
 ---
 
 ## 📋 Assignment Summary
